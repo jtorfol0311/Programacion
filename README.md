@@ -4,6 +4,6 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 
 | Ejercicios | Descripcion |
 | :----|:----- |
+| Ejercicio 1 | ----- |
 | Ejercicio 2 | ----- |
-| Ejercicio 3 | ----- |
-| Ejercico  4 | ----- |
+| Ejercico  3 | ----- |
