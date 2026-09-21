@@ -4,5 +4,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 
 | Ejercicios | Descripcion |
 | :----|:----- |
-| [Welcome.java](Tema1/Welcome.java) |
+| [Welcome.java](Tema1/Welcome.java) | Programa de java que muestra mensaje de despedida |
 | [Ejercicio 1](Tema1/SalidaFormateada02.java) |
