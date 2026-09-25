@@ -15,4 +15,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 
 | Ejercicios | Descripcion |
 | :----|:----- |
-| [calculaminutos.java](Tema2/calculaminutos.java) | Programa de java que claculo los segundos a horas, minutos y segundos restantes. |
+| [calculaminutos.java](Tema2/calculaminutos.java) | Programa de java que clacula los segundos a horas, minutos y segundos restantes. |
