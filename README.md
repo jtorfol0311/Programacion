@@ -10,3 +10,9 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [Ejercicio3](Tema1/Ejercicio3.java) | Programa de java que muestra tu nombre, tu direccion y tu numero de telefono. |
 | [Ejercicio4](Tema1/Ejercicio4.java) | Programa de java que muestra 10 palabras en ingles y su traduccion. |
 | [Ejercicio5](Tema1/Ejercicio5.java) | Programa de java que muestra el horario. |
+
+## TEMA 2 - Programacion Elemental
+
+| Ejercicios | Descripcion |
+| :----|:----- |
+| [calculaminutos.java](Tema2/calculaminutos.java) | Programa de java que claculo los segundos a horas, minutos y segundos restantes. |
