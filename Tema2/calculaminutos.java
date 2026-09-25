@@ -9,7 +9,7 @@ public static void main(String[] args) {
     int minutosrestantes;
     Scanner sc = new Scanner(System.in);
     System.out.println("Calculamos el numero y segundos, dada una cantidad de segundos");
-    System.out.println("Ingresa una cantidad de segundos:");
+    System.out.print("Ingresa una cantidad de segundos:");
     segundos = sc.nextInt();
     minutos = segundos / 60;
     horas = minutos / 60;
