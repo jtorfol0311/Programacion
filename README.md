@@ -20,3 +20,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [ConversionTemperatura1.java](Tema2/ConversionTemperatura1.java) | Programa de java que pasa de grados celcius a fahrenheit. |
 | [Ejercicio1](Tema2/Ejercicio1T2.java) | Programa de java que calcula el salario semanal. |
 | [Ejercicio2](Tema2/Ejercicio2T2.java) | Programa de java que calcula el volumen de un cono. |
+| [Ejercicio3](Tema2/Ejercicio3T2.java) | Programa de java que calcula el paso de megabytes a kilobytes. |
