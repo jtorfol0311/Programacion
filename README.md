@@ -18,4 +18,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [calculaminutos.java](Tema2/calculaminutos.java) | Programa de java que clacula los segundos a horas, minutos y segundos restantes. |
 | [ConversionTemperatura.java](Tema2/ConversionTemperatura.java) | Programa de java que pasa de grados fahrenheit a celcius. |
 | [ConversionTemperatura1.java](Tema2/ConversionTemperatura1.java) | Programa de java que pasa de grados celcius a fahrenheit. |
-| [Ejercicio1.java](Tema2/Ejercicio1T2.java) | Programa de java que calcula el salario semanal. |
+| [Ejercicio1](Tema2/Ejercicio1T2.java) | Programa de java que calcula el salario semanal. |
