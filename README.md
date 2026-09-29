@@ -21,3 +21,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [Ejercicio1](Tema2/Ejercicio1T2.java) | Programa de java que calcula el salario semanal. |
 | [Ejercicio2](Tema2/Ejercicio2T2.java) | Programa de java que calcula el volumen de un cono. |
 | [Ejercicio3](Tema2/Ejercicio3T2.java) | Programa de java que calcula el paso de megabytes a kilobytes. |
+| [Ejercicio4](Tema2/Ejercicio4T2.java) | Programa de java que calcula el paso de kilobytes a megabytes. |
