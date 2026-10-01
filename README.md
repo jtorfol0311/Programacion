@@ -22,3 +22,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [Ejercicio2](Tema2/Ejercicio2T2.java) | Programa de java que calcula el volumen de un cono. |
 | [Ejercicio3](Tema2/Ejercicio3T2.java) | Programa de java que calcula el paso de megabytes a kilobytes. |
 | [Ejercicio4](Tema2/Ejercicio4T2.java) | Programa de java que calcula el paso de kilobytes a megabytes. |
+| [Resuelve](Tema2/Resuelve.java) | Programa de java que te pregunta la suma de dos nuemeros aleatorios y te dice si la respuesta es correcta o no. |
