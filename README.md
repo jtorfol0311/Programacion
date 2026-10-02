@@ -28,3 +28,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | Ejercicios | Descripcion |
 | :----|:----- |
 | [Resuelve](Tema3/Resuelve.java) | Programa de java que te pregunta la suma de dos numeros aleatorios y te dice si la respuesta es correcta o no. |
+| [Practica1](Tema3/Prctica1.java) | Programa de java que indique si el usuario es mayor de edad o no. |
+| [Practica2](Tema3/Prctica2.java) | Programa de java que te pide dos nuemros y te indica cual de los números es mayor. |
+| [Practica3](Tema3/Prctica3.java) | Programa de java que te pide tres numeros y te indica cual es el mas pequeño. |
+| [Practica4](Tema3/Prctica4.java) | Programa de java que te pide tres numeros y te los muestra de menor a mayor. |
+
