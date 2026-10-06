@@ -35,3 +35,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [Practica4](Tema3/Practica4.java) | Programa de java que te pide tres numeros y te los muestra de menor a mayor. |
 | [Ejemplodiv](Tema3/Ejemplodiv.java) | Programa de java que te dice si un numero es divisible por 2 y 3, si un número es divisible por 2 ó 3, y si un número es divisible por 2 ó 3 pero no por ambos. |
 | [Bisiesto](Tema3/bisiesto.java) | Programa de java que te dice un alo es bisiesto o no. |
+| [Ejercicio103](Tema3/Ejercicio103.java) | Programa de java que te pide un dia de la semana y te dice que toca aprimera hora. |
