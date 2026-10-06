@@ -33,4 +33,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [Practica2](Tema3/Practica2.java) | Programa de java que te pide dos nuemros y te indica cual de los números es mayor. |
 | [Practica3](Tema3/Practica3.java) | Programa de java que te pide tres numeros y te indica cual es el mas pequeño. |
 | [Practica4](Tema3/Practica4.java) | Programa de java que te pide tres numeros y te los muestra de menor a mayor. |
-
+| [Ejemplodiv](Tema3/Ejemplodiv.java) | Programa de java que te dice si un numero es divisible por 2 y 3, si un número es divisible por 2 ó 3, y si un número es divisible por 2 ó 3 pero no por ambos. |
+| [Bisiesto](Tema3/bisiesto.java) | Programa de java que te dice un alo es bisiesto o no. |
