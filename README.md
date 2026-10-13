@@ -38,3 +38,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [Ejercicio103](Tema3/Ejercicio103.java) | Programa de java que te pide un dia de la semana y te dice que toca aprimera hora. |
 | [Ejercicio203](Tema3/Ejercicio203.java) | Programa de java que te pide una hora por teclado y que muestre luego buenos días, buenas tardes o buenas noches según la hora.|
 | [Ejercicio303](Tema3/Ejercicio303.java) | Programa de java que te dice tu horóscopo a partir del día y el mes de nacimiento. |
+| [Capicua](Tema3/Capicua.java) | Programa de java que te dice si un número entero positivo introducido por teclado es capicúa. |
