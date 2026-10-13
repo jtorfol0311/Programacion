@@ -44,3 +44,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 
 | Ejercicios | Descripcion |
 | :----|:----- |
+| [Baraja](Tema4/baraja.java) | Programa de java que te que muestre al azar el nombre de una carta de la baraja francesa. |
+| [Quiniela](Tema4/quiniela.java) | Programa de java que rellenar una quiniela al azar. |
