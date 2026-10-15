@@ -18,7 +18,7 @@ public class quiniela {
 
         if (probabilidad >= 50) {
             System.out.println("1");
-        } else if (probabilidad >= 21 && probabilidad1 <= 30) {
+        } else if (probabilidad >= 21 && probabilidad <= 30) {
             System.out.println("x");
         } else if (probabilidad <= 20) {
             System.out.println("2");
