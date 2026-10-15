@@ -3,6 +3,7 @@ public class caracteres {
         char c = 0;
         int random = (int)(Math.random() * 4);
         int contador = 1;
+        while (contador <= 5){
         if (random == 0)
             c = '#';
         else if (random == 1)
@@ -11,10 +12,8 @@ public class caracteres {
             c = '€';
         else if (random == 3)
             c = '&';
-        
-        while (contador <= 5){
-            contador++;
-        } 
-        System.out.println(c);       
+            contador++; 
+        System.out.print(c);       
+      }
     }
 }
