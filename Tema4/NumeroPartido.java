@@ -9,8 +9,7 @@ public class NumeroPartido {
         num = sc.next();
         System.out.print("Introduzca la posición a partir de la cual quiere partir el número: ");
         posicion = sc.nextInt();
-        System.out.println(num.substring(0, posicion));
-        System.out.println(num.substring(posicion));
+        System.out.println("Los numeros partidos son el " + num.substring(0, posicion) + " y el " + num.substring(posicion));
         sc.close();
     }
 }
