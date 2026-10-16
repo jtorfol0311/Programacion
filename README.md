@@ -47,3 +47,6 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | :----|:----- |
 | [Baraja](Tema4/baraja.java) | Programa de java que te que muestre al azar el nombre de una carta de la baraja francesa. |
 | [Quiniela](Tema4/quiniela.java) | Programa de java que rellenar una quiniela al azar. |
+| [PalabraFormada](Tema4/palabraformada.java) | Programa de java que escribe una palabra formada por 5 caracteres alfabéticos aleatorios en mayúsculas y minusculas. |
+| [Caracteres](Tema4/Caracteres.java) | Programa de java que muestre una línea con 5 caracteres. El carácter con el que se pinta esa línea se elige de forma aleatoria entre #,$,€,&. |
+| [Caracteres2](Tema4/Caracteres2.java) | Programa de java que muestre una línea con 5 caracteres. El carácter con el que se pinta esa línea se elige de forma aleatoria entre *, -, =, ., |, @. |
