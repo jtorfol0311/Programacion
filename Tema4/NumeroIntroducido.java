@@ -12,7 +12,7 @@ public class NumeroIntroducido {
         posicion = sc.nextInt();
         System.out.print("Introduzca el dígito que quiere insertar: ");
         insertar = sc.nextLong();
-        System.out.print("El número resultante es " + num.substring(0, posicion) + insertar + num.substring(posicion));
+        System.out.print("El número resultante es " + num.substring(0, posicion - 1) + insertar + num.substring(posicion - 1));
         sc.close();
     }
 }
