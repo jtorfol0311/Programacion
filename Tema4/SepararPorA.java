@@ -8,7 +8,7 @@ public class SepararPorA {
         System.out.print("Dime una palabra: ");
         palabra = sc.nextLine();
         posicion = palabra.indexOf("a");
-        System.out.print(palabra.substring(0, posicion) + " | " + palabra.substring(posicion));
+        System.out.print(palabra.substring(0, posicion) + " " + palabra.substring(posicion));
         sc.close();
     }
 }
