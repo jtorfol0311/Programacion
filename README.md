@@ -50,4 +50,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [PalabraFormada](Tema4/palabraformada.java) | Programa de java que escribe una palabra formada por 5 caracteres alfabéticos aleatorios en mayúsculas y minusculas. |
 | [Caracteres](Tema4/caracteres.java) | Programa de java que muestre una línea con 5 caracteres. El carácter con el que se pinta esa línea se elige de forma aleatoria entre #,$,€,&. |
 | [Caracteres2](Tema4/caracteres2.java) | Programa de java que muestre una línea con 5 caracteres. El carácter con el que se pinta esa línea se elige de forma aleatoria entre *, -, =, ., |, @. |
-| [NumeroPartido](Tema4/NumeroPartido.java) | Programa de java que permita partir un número introducido por teclado en dos partes. |
+| [NumeroPartido](Tema4/NumeroPartido.java) | Programa de java que permite partir un número introducido por teclado en dos partes. |
+| [NumeroIntroducido](Tema4/NumeroIntroducido.java) | Programa de java que es capaz de insertar un dígito dentro de un número indicando la posición. |
