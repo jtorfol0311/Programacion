@@ -54,4 +54,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [NumeroIntroducido](Tema4/NumeroIntroducido.java) | Programa de java que es capaz de insertar un dígito dentro de un número indicando la posición. |
 | [InsertarMitad](Tema4/InsertarMitad.java) | Programa de java que inserta “<>” justo en la mitad de una cadena de caracteres desde teclado. |
 | [SepararPorA](Tema4/SepararPorA.java) | Programa de java que divide una palabra desde la primera A que encuentre. |
-
+| [Notas](Tema4/Notas.java) | Programa de java que te pide 5 notas y muestra para cada nota, la nota redondeada con un decimal al alza, a la baja, la nota truncada en las unidades y al final muestra la media e indica el máximo y mínimo. |
