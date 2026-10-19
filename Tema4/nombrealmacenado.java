@@ -13,8 +13,8 @@ public class nombrealmacenado {
         nombre = sc.nextLine();
         esp1 = nombre.indexOf(" ");
         nom = nombre.substring(0, esp1);
-        esp2 = nombre.indexOf(" ");
-        ape1 = nombre.substring(esp1, esp2);
+        esp2 = nombre.indexOf(" ", esp1 + 1);
+        ape1 = nombre.substring(esp1 + 1, esp2);
         ape2 = nombre.substring(esp2);
         System.out.println("El nombre es " + nom);
         System.out.println("El primer apellido es " + ape1);
