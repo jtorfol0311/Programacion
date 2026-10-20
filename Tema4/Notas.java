@@ -18,11 +18,11 @@ public class Notas {
         n4 = sc.nextDouble();
         System.out.print("Dime la quinta nota: ");
         n5 = sc.nextDouble();
-        n1alza = Math.ceil(n1);
-        n2alza = Math.ceil(n2);
-        n3alza = Math.ceil(n3);
-        n4alza = Math.ceil(n4);
-        n5alza = Math.ceil(n5);
+        n1alza = Math.ceil(n1 * 10) / 10;
+        n2alza = Math.ceil(n2 * 10) / 10;
+        n3alza = Math.ceil(n3 * 10) / 10;
+        n4alza = Math.ceil(n4 * 10) / 10;
+        n5alza = Math.ceil(n5 * 10) / 10;
         n1baja = Math.floor(n1);
         n2baja = Math.floor(n2);
         n3baja = Math.floor(n3);
