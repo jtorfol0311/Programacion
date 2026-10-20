@@ -55,3 +55,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [InsertarMitad](Tema4/InsertarMitad.java) | Programa de java que inserta “<>” justo en la mitad de una cadena de caracteres desde teclado. |
 | [SepararPorA](Tema4/SepararPorA.java) | Programa de java que divide una palabra desde la primera A que encuentre. |
 | [Notas](Tema4/Notas.java) | Programa de java que te pide 5 notas y muestra para cada nota, la nota redondeada con un decimal al alza, a la baja, la nota truncada en las unidades y al final muestra la media e indica el máximo y mínimo. |
+| [NumeroDigitos](Tema4/numerodigitos.java) | Programa de java que lee un número por teclado y comprueba que el número está compuesto exclusivamente por dígitos y que la longitud esté comprendida entre 2 y 7. |
+| [NombreAlmacenado](Tema4/nombrealmacenado.java) | Programa de java que lee el nombre y dos apellidos y nos almacene en cadenas separadas el nombre, el primer apellido y el segundo apellido. |
