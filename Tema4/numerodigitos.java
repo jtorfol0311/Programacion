@@ -17,9 +17,9 @@ public class numerodigitos {
             i++;
         }
         if (digitos) {
-                System.out.println("El numero esta formado por digitos");
+                System.out.println("El numero " + num + " esta formado por digitos");
             } else {
-                System.out.println("El numero no esta formado por digitos");
+                System.out.println("El numero " + num + " no esta formado por digitos");
             }
         cantidad = num.length();
         if (cantidad < 2 || cantidad > 7) {
