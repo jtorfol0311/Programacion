@@ -23,11 +23,11 @@ public class Notas {
         n3alza = Math.ceil(n3 * 10) / 10;
         n4alza = Math.ceil(n4 * 10) / 10;
         n5alza = Math.ceil(n5 * 10) / 10;
-        n1baja = Math.floor(n1);
-        n2baja = Math.floor(n2);
-        n3baja = Math.floor(n3);
-        n4baja = Math.floor(n4);
-        n5baja = Math.floor(n5);
+        n1baja = Math.floor(n1 * 10) / 10;
+        n2baja = Math.floor(n2 * 10) / 10;
+        n3baja = Math.floor(n3 * 10) / 10;
+        n4baja = Math.floor(n4 * 10) / 10;
+        n5baja = Math.floor(n5 * 10) / 10;
         n1trun = Math.round(n1);
         n2trun = Math.round(n2);
         n3trun = Math.round(n3);
