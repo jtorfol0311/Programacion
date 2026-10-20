@@ -34,31 +34,8 @@ public class Notas {
         n4trun = Math.round(n4);
         n5trun = Math.round(n5);
         media = (n1 + n2 + n3 + n4 + n5) / 5;
-        double maximo; 
-        double minimo;
-        if (n1 > n2 && n1 > n3 && n1 > n4 && n1 > n5) {
-            maximo = n1;
-        } else if (n2 > n1 && n2 > n3 && n2 > n4 && n2 > n5) {
-            maximo = n2;
-        } else if (n3 > n1 && n3 > n2 && n3 > n4 && n3 > n5) {
-            maximo = n3;
-        } else if (n4 > n1 && n4 > n2 && n4 > n3 && n4 > n5) {
-            maximo = n4;
-        } else {
-            maximo = n5;
-        }
-
-        if (n1 < n2 && n1 < n3 && n1 < n4 && n1 < n5) {
-            minimo = n1;
-        } else if (n2 < n1 && n2 < n3 && n2 < n4 && n2 < n5) {
-            minimo = n2;
-        } else if (n3 < n1 && n3 < n2 && n3 < n4 && n3 < n5) {
-            minimo = n3;
-        } else if (n4 < n1 && n4 < n2 && n4 < n3 && n4 < n5) {
-            minimo = n4;
-        } else {
-            minimo = n5;
-        }
+        double maximo = Math.max(n1, Math.max(n2, Math.max(n3, Math.max(n4, n5)))); 
+        double minimo = Math.min(n1, Math.min(n2, Math.min(n3, Math.min(n4, n5))));
         System.out.println("La primera nota alza es " + n1alza + ", a la baja es " + n1baja + " y truncada es " + n1trun);
         System.out.println("La segunda nota alza es " + n2alza + ", a la baja es " + n2baja + " y truncada es " + n2trun);
         System.out.println("La tercera nota alza es " + n3alza + ", a la baja es " + n3baja + " y truncada es " + n3trun);
