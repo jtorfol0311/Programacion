@@ -57,3 +57,9 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [Notas](Tema4/Notas.java) | Programa de java que te pide 5 notas y muestra para cada nota, la nota redondeada con un decimal al alza, a la baja, la nota truncada en las unidades y al final muestra la media e indica el máximo y mínimo. |
 | [NumeroDigitos](Tema4/numerodigitos.java) | Programa de java que lee un número por teclado y comprueba que el número está compuesto exclusivamente por dígitos y que la longitud esté comprendida entre 2 y 7. |
 | [NombreAlmacenado](Tema4/nombrealmacenado.java) | Programa de java que lee el nombre y dos apellidos y nos almacene en cadenas separadas el nombre, el primer apellido y el segundo apellido. |
+
+## Tema 5 - Bucles
+
+| Ejercicios | Descripcion |
+| :----|:----- |
+| [AdivinaNumero](Tema5/adivinanumero.java) | Programa de java que genera aleatoriamente un número entero entre 0 y 100 y el usuario tiene que adivinarlo. |
