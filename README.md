@@ -64,5 +64,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | :----|:----- |
 | [AdivinaNumero](Tema5/adivinanumero.java) | Programa de java que genera aleatoriamente un número entero entre 0 y 100 y el usuario tiene que adivinarlo. |
 | [Cohete](Tema5/Cohete.java) | Programa de java que  que cuenta desde 5 hasta 0 con un while y luego muestre “¡Despegue! 🚀”. |
-| [TablaDelNueve](Tema5/TablaDelNueve.java) | Programa de java que  que muestre la tabla de multiplicar del 9, con un bucle for. |
-
+| [TablaDelNueve](Tema5/TablaDelNueve.java) | Programa de java que muestra la tabla de multiplicar del 9, con un bucle for. |
+| [NotaTextual](Tema5/notatextual.java) | Programa de java que convierte una nota numérica en su calificación textual usando if/else if. |
