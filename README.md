@@ -67,3 +67,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [TablaDelNueve](Tema5/TablaDelNueve.java) | Programa de java que muestra la tabla de multiplicar del 9, con un bucle for. |
 | [NotaTextual](Tema5/notatextual.java) | Programa de java que convierte una nota numérica en su calificación textual usando if/else if. |
 | [EscaleraNumero](Tema5/escaleranumeros.java) | Programa de java que imprime una escalera de números. |
+| [EscaleraReversa](Tema5/escalerareversa.java) | Programa de java que imprime una escalera de números en reversa. |
+| [PiramideNumero](Tema5/piramidenumero.java) | Programa de java que imprime una piramide de numero. |
