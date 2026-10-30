@@ -69,3 +69,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [EscaleraNumero](Tema5/escaleranumeros.java) | Programa de java que imprime una escalera de números. |
 | [EscaleraReversa](Tema5/escalerareversa.java) | Programa de java que imprime una escalera de números en reversa. |
 | [PiramideNumero](Tema5/piramidenumero.java) | Programa de java que imprime una piramide de numero. |
+| [SumaTotal](Tema5/SumaTotal.java) | Programa de java que suma números enteros introducidos por el usuario hasta que escriba 0. |
+| [NumeroPar](Tema5/NumeroPar.java) | Programa de java que pide un número entero al usuario y muestra todos los números pares comprendidos entre 1 y ese número. |
