@@ -71,3 +71,6 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [PiramideNumero](Tema5/piramidenumero.java) | Programa de java que imprime una piramide de numero. |
 | [SumaTotal](Tema5/SumaTotal.java) | Programa de java que suma números enteros introducidos por el usuario hasta que escriba 0. |
 | [NumeroPar](Tema5/NumeroPar.java) | Programa de java que pide un número entero al usuario y muestra todos los números pares comprendidos entre 1 y ese número. |
+| [ContarCifras](Tema5/ContarCifras.java) | Programa de java que pide un número entero positivo y calcula cuántas cifras tiene sin convertirlo a texto. |
+| [RectanguloAsterisco](Tema5/RectanguloAsterisco.java) | Programa de java que pide al usuario el número de filas y columnas y dibuja un rectángulo de asteriscos. |
+| [CuadradoNumerico](Tema5/CuadradoNumerico.java) | Programa de java que Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila. |
