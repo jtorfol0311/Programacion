@@ -2,18 +2,16 @@ import java.util.Scanner;
 
 public class CuadradoNumerico {
     public static void main(String[] args) {
-        int f;
-        int c;
+        int n;
         Scanner sc = new Scanner(System.in);
-        System.out.print("Dime cuantas filas quieres: ");
-        f = sc.nextInt();
-        System.out.print("Dime cuantas columnas quieres: ");
-        c = sc.nextInt();
-        for(int i = 0; i < f; i++){
-            for(int j = 0; j < c; j++){
-                System.out.print("*");
+        System.out.print("Dime un numero para formar un cuadrado: ");
+        n = sc.nextInt();
+        for(int i = 1; i <= n; i++){
+            for(int j = 1; j <= n; j++){
+                System.out.print(j);
             }
             System.out.println();
         }
+        sc.close();   
     }
 }
