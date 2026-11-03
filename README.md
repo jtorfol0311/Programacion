@@ -73,4 +73,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [NumeroPar](Tema5/NumeroPar.java) | Programa de java que pide un número entero al usuario y muestra todos los números pares comprendidos entre 1 y ese número. |
 | [ContarCifras](Tema5/ContarCifras.java) | Programa de java que pide un número entero positivo y calcula cuántas cifras tiene sin convertirlo a texto. |
 | [RectanguloAsterisco](Tema5/RectanguloAsterisco.java) | Programa de java que pide al usuario el número de filas y columnas y dibuja un rectángulo de asteriscos. |
-| [CuadradoNumerico](Tema5/CuadradoNumerico.java) | Programa de java que Pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila. |
+| [CuadradoNumerico](Tema5/CuadradoNumerico.java) | Programa de java que pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila. |
+| [MatrizNumero](Tema5/MatrizNumero.java) | Programa de java que pide el número de filas y columnas y muestra una matriz en la que cada posición contenga el número de su fila multiplicado por el número de su columna. |
