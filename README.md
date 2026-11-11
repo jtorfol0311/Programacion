@@ -75,3 +75,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [RectanguloAsterisco](Tema5/RectanguloAsterisco.java) | Programa de java que pide al usuario el número de filas y columnas y dibuja un rectángulo de asteriscos. |
 | [CuadradoNumerico](Tema5/CuadradoNumerico.java) | Programa de java que pide un número N y muestra un cuadrado de N filas y N columnas con números del 1 al N en cada fila. |
 | [MatrizNumero](Tema5/MatrizNumero.java) | Programa de java que pide el número de filas y columnas y muestra una matriz en la que cada posición contenga el número de su fila multiplicado por el número de su columna. |
+
+## Tema 6 - Metodos
+
+| Ejercicios | Descripcion |
+| :----|:----- |
