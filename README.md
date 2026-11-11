@@ -80,3 +80,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 
 | Ejercicios | Descripcion |
 | :----|:----- |
+| [biblioteca](Tema6/biblioteca.java) | Programa de java que muestra un menu para elegir diferentes metodos matematicos. |
