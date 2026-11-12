@@ -72,7 +72,6 @@ public class biblioteca {
         public static boolean esCapicua(int original) {
             int inverso = 0;
             int i = original;
-            boolean j = false;
             while(i != 0){
                 inverso = inverso * 10 + i % 10;
                 i /= 10;
