@@ -26,7 +26,7 @@ public class biblioteca {
                     int potencia;
                     System.out.print("Dime un numero de base: ");
                     base = sc.nextInt();
-                    System.out.print("Dime un numero como potencia");
+                    System.out.print("Dime un numero como potencia: ");
                     potencia = sc.nextInt();
                     System.out.println(potencia(base, potencia));
                     break;
@@ -67,6 +67,7 @@ public class biblioteca {
                     System.out.println("Opcion incorrecta");
                     break;
             }
+            sc.close();
         }
         }
         public static boolean esCapicua(int original) {
