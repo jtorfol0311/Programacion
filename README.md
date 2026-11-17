@@ -86,3 +86,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [MetodoMaximo3](Tema6/MetodoMaximo3.java) | Programa de java que utiliza un metodo que calcula el máximo de 3 números. |
 | [MetodoVolumen](Tema6/MetodoVolumen.java) | Programa de java que utiliza un metodo que calcula el volumen de un cilindro pasandole al metodo el radio y la altura. |
 | [MetodoDivisoresPrimos](Tema6/MetodoDivisoresPrimos.java) | Programa de java que utiliza un metodo que se le pasa un número entero y devuelve el número de divisores primos que tiene. |
+| [MetodoNumeroAmigo](Tema6/MetodoNumeroAmigo.java) | Programa de java que utiliza algunos metodos que decide si dos números enteros positivos son amigos. |
