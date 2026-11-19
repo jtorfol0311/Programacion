@@ -97,3 +97,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [Array100numerosd](Tema7/Array100numerosd.java) | Programa de java que rellena un array con los 100 primeros números enteros en orden descendente y los muestra en pantalla. |
 | [ArrayPares](Tema7/ArrayPares.java) | Programa de java que rellena un array con los números pares comprendidos entre 1 y 100 y los muestra en pantalla en orden ascendente. |
 | [ArrayImpares](Tema7/ArrayImpares.java) | Programa de java que rellena un array con los números impares comprendidos entre 1 y 100 y los muestra en pantalla en orden ascendente. |
+| [ArrayPrimos](Tema7/ArrayPrimos.java) | Programa de java que rellena un array con los números primos comprendidos entre 1 y 100 utilizando un metodo y los muestra en pantalla en orden ascendente. |
