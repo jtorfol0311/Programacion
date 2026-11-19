@@ -3,6 +3,9 @@ public class ArrayPrimos {
         int[] primos = new int[101];
         int i = 0;
         int p = 0;
+        EsPrimo(i, p, primos);
+    }
+    public static int EsPrimo(int i, int p, int[] primos){
         boolean esPrimo = true;
         while(i <= 100){
             esPrimo = true;
@@ -22,5 +25,6 @@ public class ArrayPrimos {
             }
         i++; 
         }
+    return primos[p];
     }
 }
