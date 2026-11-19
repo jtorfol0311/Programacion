@@ -88,3 +88,8 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [MetodoDivisoresPrimos](Tema6/MetodoDivisoresPrimos.java) | Programa de java que utiliza un metodo que se le pasa un número entero y devuelve el número de divisores primos que tiene. |
 | [MetodoNumeroAmigo](Tema6/MetodoNumeroAmigo.java) | Programa de java que utiliza algunos metodos que decide si dos números enteros positivos son amigos. |
 | [MetodosFechas](Tema6/MetodosFechas.java) | Programa de java que utiliza algunos metodos que lee fechas validas por teclado y calcula el día de la semana que corresponde a esa fecha. |
+
+## Tema 7 - Matrices Unidimensionales
+
+| Ejercicios | Descripcion |
+| :----|:----- |
