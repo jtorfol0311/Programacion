@@ -98,3 +98,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [ArrayPares](Tema7/ArrayPares.java) | Programa de java que rellena un array con los números pares comprendidos entre 1 y 100 y los muestra en pantalla en orden ascendente. |
 | [ArrayImpares](Tema7/ArrayImpares.java) | Programa de java que rellena un array con los números impares comprendidos entre 1 y 100 y los muestra en pantalla en orden ascendente. |
 | [ArrayPrimos](Tema7/ArrayPrimos.java) | Programa de java que rellena un array con los números primos comprendidos entre 1 y 100 utilizando un metodo y los muestra en pantalla en orden ascendente. |
+| [ArrayNumeroInverso](Tema7/ArrayNumeroInverso.java) | Programa de java que lee 10 números por teclado, los almacena en un array y muestra los números insertados en orden inverso. |
