@@ -101,3 +101,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 | [ArrayNumeroInverso](Tema7/ArrayNumeroInverso.java) | Programa de java que lee 10 números por teclado, los almacena en un array y muestra los números insertados en orden inverso. |
 | [ArrayOperaciones](Tema7/ArrayOperaciones.java) | Programa de java que lee 10 números por teclado, los almacena en un array y muestrs la suma, resta, multiplicación y división de todos. |
 | [ArraySumPares](Tema7/ArraySumPares.java) | Programa de java que rellena un array con los 100 primeros números pares y muestra su suma. |
+| [ArrayMedia](Tema7/ArrayMedia.java) | Programa de java que lee 10 números por teclado, los almacena en un array y muestra la media. |
